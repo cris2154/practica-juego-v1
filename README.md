@@ -29,3 +29,5 @@ JavaScript Vanilla
 
 📱 Totalmente responsive (juega desde PC o móvil).
 
+https://cris2154.github.io/practica-juego-v1/
+
