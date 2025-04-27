@@ -27,7 +27,7 @@ JavaScript Vanilla
 🏆 Registro de puntuación máxima.
 
 
-📱 Totalmente responsive (juega desde PC o móvil).
+ juega desde PC 
 
 https://cris2154.github.io/practica-juego-v1/
 
